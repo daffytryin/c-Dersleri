@@ -37,7 +37,7 @@ Tek Boyutlu Diziler
     olarak da tanımlanabilir
 */
 
-var kursAdi = ".NET ile C# programlama dersleri";
+// var kursAdi = ".NET ile C# programlama dersleri";
 
-Console.WriteLine(kursAdi[10]);
+// Console.WriteLine(kursAdi[10]);
 
